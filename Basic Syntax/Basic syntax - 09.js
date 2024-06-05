@@ -1,6 +1,6 @@
 function task(N){
     while(N >= 1){
-        console.log(N)
-        N--
+        console.log(N);
+        N--;
     }
 }
