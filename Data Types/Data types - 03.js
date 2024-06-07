@@ -1,8 +1,8 @@
 function task(str1, miss, result){
-    let change = str1.replace('_', miss)
+    let change = str1.replace('_', miss);
     if(change === result){
-        console.log(`Matched`)
+        console.log(`Matched`);
     }else{
-        console.log(`Not Matched`)
+        console.log(`Not Matched`);
     }
 }
