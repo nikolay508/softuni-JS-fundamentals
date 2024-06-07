@@ -1,7 +1,7 @@
 function task(word, count){
-    let array = []
+    let array = [];
     for(let i = 0; i < count; i++){
-        array.push(word)
+        array.push(word);
     }
-    console.log(array.join(''))
+    console.log(array.join(''));
 }
