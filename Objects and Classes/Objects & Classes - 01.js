@@ -4,5 +4,5 @@ function createPerson(firstName, lastName, age) {
         lastName: lastName,
         age: age
     }
-    return person
+    return person;
 }
