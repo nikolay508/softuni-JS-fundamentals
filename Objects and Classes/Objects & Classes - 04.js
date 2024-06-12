@@ -4,5 +4,5 @@ function task(firstName, lastName, color){
         lastName: lastName,
         hairColor: color
     }
-    console.log(JSON.stringify(object))
+    console.log(JSON.stringify(object));
 }
