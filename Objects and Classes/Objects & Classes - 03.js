@@ -1,6 +1,6 @@
 function task(string){
-    let person = JSON.parse(string)
+    let person = JSON.parse(string);
     for(const key in person){
-        console.log(`${key}: ${person[key]}`)
+        console.log(`${key}: ${person[key]}`);
     }
 }
