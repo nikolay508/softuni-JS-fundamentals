@@ -1,4 +1,5 @@
 function task(numOne, numTwo, operator){
+    
     if(operator === 'multiply'){
         console.log(numOne * numTwo);
     }else if(operator === 'divide'){
@@ -8,4 +9,5 @@ function task(numOne, numTwo, operator){
     }else if(operator === 'subtract'){
         console.log(numOne - numTwo);
     }
+    
 }
