@@ -1,5 +1,6 @@
 function task(a, b, c){
     let count = 0;
+    
     if(a < 0){
         count += 1;
     }
@@ -15,4 +16,5 @@ function task(a, b, c){
     }else{
         console.log('Positive');
     }
+    
 }
