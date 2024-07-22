@@ -1,5 +1,6 @@
 function task(product, amount){
     let price = 0;
+    
     if(product === 'coffee'){
         price = 1.50 * amount;
     }else if(product === 'water'){
@@ -9,5 +10,6 @@ function task(product, amount){
     }else if(product === 'snacks'){
         price = 2.00 * amount;
     }
+    
     console.log(price.toFixed(2));
 }
