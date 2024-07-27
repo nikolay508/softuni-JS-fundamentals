@@ -11,6 +11,7 @@ function task(arr1, arr2){
             break;
         }
     }
+    
     if(isOk){
         console.log(`Arrays are identical. Sum: ${sum}`);
     }else{
