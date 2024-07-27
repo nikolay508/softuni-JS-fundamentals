@@ -9,5 +9,6 @@ function task(arr){
             sumOdd += arr[i];
         }
     }
+    
     console.log(sumEven - sumOdd);
 }
