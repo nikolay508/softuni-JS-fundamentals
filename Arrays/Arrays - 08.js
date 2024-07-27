@@ -6,5 +6,6 @@ function task(arr) {
       }
       arr = temp;
     }
+    
     console.log(arr[0]);
 }
