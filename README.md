@@ -3,13 +3,13 @@
 This repository contains all the lab exercises and my mid-exam solutions from the JavaScript Fundamentals course at SoftUni. Each solution demonstrates key concepts and problem-solving techniques in JavaScript, practiced and tested through the SoftUni Judge system.
 
 ## ✨ Contents
-Lab Exercises: Step-by-step coding tasks that focus on mastering core JavaScript principles.
+Lab Exercises: Step-by-step coding tasks that focus on mastering core JavaScript principles.<br>
 Mid-Exam Solutions: My completed solutions for the mid-course exam, showcasing my understanding of the topics covered.
 
 ## 📚 Topics Covered
-JavaScript basics: Variables, data types, and operations
-Control structures: Loops and conditional statements
-Functions and problem-solving techniques
+JavaScript basics: Variables, data types, and operations<br>
+Control structures: Loops and conditional statements<br>
+Functions and problem-solving techniques<br>
 Arrays and objects
 
 ## 🚀 Technologies Used
